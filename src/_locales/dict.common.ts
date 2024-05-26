@@ -181,7 +181,7 @@ export const commonTranslations: Translations = {
     en: 'History panel requires "History" permission.',
     de: 'Chronik Panel erfordert "Chronik" Berechtigung',
     hu: 'Az előzmények eléréséhez engedély szükséges.',
-    pl: 'Panel historii wymaga pozwolenia "Historia.',
+    pl: 'Panel historii wymaga pozwolenia "Historia".',
     ru: 'Панель истории требует разрешения "История".',
     zh_CN: '历史面板需要"历史"权限。',
     zh_TW: '歷史面板需要「歷史」權限。',
